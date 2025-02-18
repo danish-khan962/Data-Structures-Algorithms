@@ -1,0 +1,30 @@
+/*LECTURE-2*/ getting started
+
+Source code --> compiler(executable format) --> machine executable format(0/1)
+
+What is a compiler? 
+It translates between user and system and also find erros..
+
+IDE => Indegrated development environment (e.g. Code blocks, VS code etc..)
+
+
+/*Basic syntax of C++*/
+
+#include<iostream>                ---------------> Header files
+using namespace std;              ---------------> namespace
+int main(){                       ---------------> main function
+    cout<<"Hello world";          ---------------> output (o/p)
+    return 0;
+}
+
+
+/NOTE*/ : Instead of using <iostream> we can use <bits/stdc++.h> as it includes all major c++ header files in one go
+
+
+<<   : to write
+endl : new line or enter
+/n   : enter
+;    : to end line 
+
+
+LOOPS : while loop ;    for loop   ; do-while loop

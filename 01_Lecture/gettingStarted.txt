@@ -1,0 +1,10 @@
+/*LECTURE - 1 */ covers basics of pseduocodes and flowcharts to getting started with DSA
+
+(1.) Problem solving includes
+=> Understanding statement -->  Given values -->  Approach --> Program 
+
+                    PROBLEM -----> SOLUTION
+
+
+| Flowchart/Pseduocode |  -->  Program (src code)  --> | Machine understandable format (0/1) |
+
