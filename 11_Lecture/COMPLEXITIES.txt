@@ -1,0 +1,36 @@
+/*LECTURE 11*/ Complexities
+
+(1..) TIME COMPLEXITY =>
+It is the amount of time taken by an algorithm as a function of length of the input.
+
+Ques.) Why we need time complexity? 
+Ans.   For making better programs  and   comparison of algorithm
+
+
+Complexity notations includes  
+Big O notations     Theta 0     Omega 
+
+
+    * Constant time - O(1)
+    * Linear time - O(N)
+    * Logarithmic time - O(logN)
+    * Quadratic time - o(N^2)
+    * Cubic time - O(N^3)
+
+
+Increase in Time complexity             O(N!)         
+                                        O(2^n)        
+                                        O(N^3)
+                                        O(N^2)
+                                        O(NlogN)
+                                        O(N)
+                                        O(logN)
+                                        O(1)
+
+
+Stuck in TLE (time limit exceeded error): Most of the modern machines can perform 10^8 operation/sec
+
+
+(2..) SPACE COMPLEXITY =>
+Amount of memory taken by a program is defined by space complexity.
+It contains fixed +  auxillary space..
