@@ -1,0 +1,21 @@
+/*LECTURE 08*/
+
+1. Instead of using if, else, else -if ladder we can simply use switch case..
+
+switch(expression){
+    case constat1:
+        ________________
+        break; ->yes/no                 // case and default are keywords
+    case constat2:
+        ________________
+        break; ->yes/no
+    case constat3:                    // we use break to avoid infinite loop and stop the execution of further cases beyond true
+        ________________
+        break; ->yes/no
+    default:
+        ________________
+}
+
+/*NOTE*/
+* We can use continue statement only within the loops. Switch case is conditional block not a loop so we cannot execute the continue statement inside switch.
+* Moreover, the continue statement applies only to loops, not to a switch statement.

@@ -1,0 +1,5 @@
+/*LECTURE-6*/
+
+This lecture contains the basics of decimal and binary manipulation , similar to bit manipulation 
+
+/*Note: Refer 07_Lecture folder and notebook notes for this respected lecture....

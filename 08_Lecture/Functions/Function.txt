@@ -1,0 +1,6 @@
+//FUNCTIONS
+
+functions are a we-defined program to perform a certain task 
+without function code can be , bulky, buggy and non-readable , hence making use of functions makes our code more organised
+
+//Functions create call stacks...
